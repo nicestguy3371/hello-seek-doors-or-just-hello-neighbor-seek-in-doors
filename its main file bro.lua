@@ -3,7 +3,7 @@ local RunService = game:GetService("RunService")
 local StarterGui = game:GetService("StarterGui")
 
 local localFileName = "song.mp3"
-local githubRawUrl = "https://github.com/nicestguy3371/hello-seek-doors-or-just-hello-neighbor-seek-in-doors/raw/refs/heads/main/song.mp3"
+local githubRawUrl = "https://githubusercontent.com"
 
 local fileExists = false
 pcall(function()
